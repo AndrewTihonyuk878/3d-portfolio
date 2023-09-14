@@ -29,6 +29,13 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import promptopia from "./promptopia.png";
+import carhub_modal from "./carhub_modal.png";
+import pizza from "./pizza.png";
+import react_chess from "./react_chess.png";
+import marvel from "./marvel.png";
+import portrait from "./portret.png"
+
 
 export {
   logo,
@@ -59,4 +66,10 @@ export {
   carrent,
   jobit,
   tripguide,
+  promptopia,
+  carhub_modal,
+  pizza,
+  react_chess,
+  marvel,
+  portrait
 };
