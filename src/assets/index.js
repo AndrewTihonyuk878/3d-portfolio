@@ -25,6 +25,8 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import ccgames from "./company/ccgames.png";
+import asistant from "./company/asistant.jpg"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -71,5 +73,7 @@ export {
   pizza,
   react_chess,
   marvel,
-  portrait
+  portrait,
+  ccgames,
+  asistant
 };

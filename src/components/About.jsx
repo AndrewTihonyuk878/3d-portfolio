@@ -38,7 +38,9 @@ const About = () => {
 
       <motion.p variants={fadeIn('', '', 0.1, 1)}
       className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-      Hello! I’m from Ukraine. Now I am in Wroclaw. Flexibility is one of my main features that is why I can adapt to any working conditions. I have more than 2 years of experience, creating work using HTML, CSS, JavaScript, REACT, REDUX, TypeScript, Bootstrap and Docker. So, I think I could be useful to you in achieving your company’s goals. I am a quiet, active, open, and motivated individual, due to my strong analytical and critical thinking I can find simple solutions to complex problems.
+      Hello! I’m from Ukraine. Now I am in Wroclaw. Flexibility is one of my main features that is why I can adapt to any working conditions. I have about <span className='text-[#915eff]'>3 years of experience</span>, creating responsive websites and applications using HTML, CSS, JavaScript, REACT, REDUX, TypeScript, Bootstrap, Docker and NextJS.<br /><br /> I am a quiet, active, open, and motivated individual, due to my strong analytical and critical thinking I can find simple solutions to complex problems. I have a high level of
+      <span className='text-[#915eff]'>self-organization</span> and <span className='text-[#915eff]'>self-development</span>. I know how to find a common language with different people, and I am not afraid to take responsibility.<br /><br />
+      I believe that our whole life is a <span className='text-[#915eff]'>constant continuous development</span>, where our attention, there’s our energy, and that in our life increases. Therefore I made my choice.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

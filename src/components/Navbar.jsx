@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faGithub, faLinkedin, faInstagram, faTelegram, faFacebook } from '@fortawesome/free-brands-svg-icons'
 
 import { styles } from '../styles';
 import { navLinks } from '../constants';
@@ -45,6 +47,39 @@ const Navbar = () => {
             </li>
           ))}
         </ul>
+
+        <div className='flex gap-3 text-2xl'>
+          <a href="https://github.com/AndrewTihonyuk878" target="_blank">
+          <FontAwesomeIcon 
+            icon={faGithub} 
+            className='hover:text-[#915eff]'
+          />
+          </a>
+          <a href="https://www.linkedin.com/in/tykhoniukk/" target="_blank">
+            <FontAwesomeIcon 
+              icon={faLinkedin} 
+              className='hover:text-[#915eff]'
+            />
+          </a>
+          <a href="https://www.instagram.com/andrii_tykhoniuk/" target="_blank">
+            <FontAwesomeIcon 
+              icon={faInstagram} 
+              className='hover:text-[#915eff]'
+            />
+          </a>
+          <a href="https://t.me/andrii_tykhoniuk/" target="_blank">
+            <FontAwesomeIcon 
+              icon={faTelegram} 
+              className='hover:text-[#915eff]'
+            />
+          </a>
+          <a href="https://www.facebook.com/tykhoniuk/" target="_blank">
+            <FontAwesomeIcon 
+              icon={faFacebook} 
+              className='hover:text-[#915eff]'
+            />
+          </a>
+        </div>
 
         <div className='sm:hidden flex flex-1 justify-end items-center'>
           <img

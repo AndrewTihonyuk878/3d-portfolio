@@ -28,7 +28,9 @@ import {
     pizza,
     react_chess,
     marvel,
-    portrait
+    portrait,
+    ccgames,
+    asistant
   } from "../assets";
   
   export const navLinks = [
@@ -52,11 +54,11 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Personal Asistance",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Business Owner",
       icon: backend,
     },
     {
@@ -128,15 +130,11 @@ import {
       iconBg: "#383E56",
       date: "May 2021 - August 2022",
       points: [
-        // "Developing and maintaining web applications using React.js and other related technologies.",
-        // "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        // "Implementing responsive design and ensuring cross-browser compatibility.",
-        // "Participating in code reviews and providing constructive feedback to other developers.",
-        "marketing",
-        "employment",
-        "recruiting",
-        "people management",
-        "project management"
+        "Marketing",
+        "Employment",
+        "Recruiting",
+        "People management",
+        "Project management"
       ],
     },
     {
@@ -149,7 +147,6 @@ import {
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
     {
@@ -183,7 +180,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "I thought it was impossible to make a website as beautiful as our product, but Andrii proved me wrong.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -191,7 +188,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "I've never met a web developer who truly cares about their clients' success like Andrii does.",
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",
@@ -199,7 +196,7 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After Andrii optimized our website, our traffic increased by 50%. We can't thank them enough!",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
