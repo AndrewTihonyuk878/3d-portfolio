@@ -126,20 +126,20 @@ import {
     {
       title: "Personal Assistant",
       company_name: "STABILBAU",
-      icon: starbucks,
+      icon: asistant,
       iconBg: "#383E56",
       date: "May 2021 - August 2022",
       points: [
-        "Marketing",
-        "Employment",
-        "Recruiting",
-        "People management",
-        "Project management"
+        "Marketing, Employment, Recruiting, People managements, Project management.",
+        "Served as point of contact between clients and managerial staff.",
+        "Provided multifaceted services to career professionals by running errands, managing mail, scheduling appointments, and arranging transportation.",
+        "Documented and distributed meeting notes to identify, analyze, and improve workflows.",
+        "Communicated with internal departments, vendors and contractors to discuss schedules, project requirements and upcoming appointments."
       ],
     },
     {
       title: "Frontend developer",
-      company_name: "freelance",
+      company_name: "Freelance Platforms",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "August 2021 - December  2022",
@@ -147,34 +147,24 @@ import {
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Establish a website that guarantees high traffic, and generates a 25% increase in the company's sales revenue.",
+        "Formulated and implement improvements on cleanup processes and performance, minimizing downtime by 10%."
       ],
     },
     {
       title: "Web Developer",
       company_name: "CC Games",
-      icon: shopify,
+      icon: ccgames,
       iconBg: "#383E56",
       date: "October 2022 - Jul 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Coded using HTML, CSS, React, Redux, TypeScript, NextJS and JavaScript to develop features for both mobile and desktop platforms.",
+        "Proactively liaised with the design team and project manager to ensure efficient and timely delivery of significant projects.",
+        "Thanks to the site interface optimization I performed, mobile traffic increased by 15%.",
         "Participating in code reviews and providing constructive feedback to other developers.",
+        "Design and establish user-friendly websites, including optimized check-out page, resulting in 25% increase in user and subsequently 33% in customer purchases."
       ],
     },
-    // {
-    //   title: "Full stack Developer",
-    //   company_name: "Meta",
-    //   icon: meta,
-    //   iconBg: "#E6DEDD",
-    //   date: "Jan 2023 - Present",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
   ];
   
   const testimonials = [
@@ -373,28 +363,6 @@ import {
       source_code_link: "https://github.com/AndrewTihonyuk878/picture",
       website_link: "https://andrewtihonyuk878.github.io/picture/"
     },
-    // {
-    //   name: "Trip Guide",
-    //   description:
-    //     "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    //   tags: [
-    //     {
-    //       name: "nextjs",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "supabase",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "css",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: tripguide,
-    //   source_code_link: "https://github.com/",
-    //   website_link: "https://rental-cars-rose.vercel.app"
-    // },
   ];
   
   export { services, technologies, experiences, testimonials, projects };
