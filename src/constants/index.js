@@ -54,11 +54,11 @@ import {
       icon: web,
     },
     {
-      title: "Personal Asistance",
+      title: "Personal Assistant",
       icon: mobile,
     },
     {
-      title: "Business Owner",
+      title: "Frontend developer",
       icon: backend,
     },
     {
