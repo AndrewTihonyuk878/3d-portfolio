@@ -30,7 +30,8 @@ import {
     marvel,
     portrait,
     ccgames,
-    asistant
+    asistant,
+    bank_modern
   } from "../assets";
   
   export const navLinks = [
@@ -256,6 +257,40 @@ import {
       website_link: "https://promptopia-iota-eosin.vercel.app/"
     },
     {
+      name: "Modern Bank App",
+      description:
+        "Responsive React JS application consisting of a stunning hero section, high-quality assets and gradients, business stats, reusable feature sections with call-to-action buttons, testimonials, and more!",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "TailwindCSS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "complexGradients",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "FramerMotion",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "react-tilt",
+          color: "green-text-gradient",
+        },
+        {
+          name: "hoc",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: bank_modern,
+      source_code_link: "https://github.com/AndrewTihonyuk878/bank_modern_app",
+      website_link: "https://bank-modern-app-andrewtihonyuk878.vercel.app/"
+    },
+    {
       name: "React Pizza",
       description:
         "This is a full-fledged web application, in the form of an online store, for choosing pizza. Where we can filter our products, add to cart, delete them, select the size, type, etc.. Developed using: TypeScript, Redux, React, React-router-dom, Redux-Toolkit, AXIOS, mockApi, and other technologies",
@@ -342,7 +377,7 @@ import {
       website_link: "https://marvel-starter-react-hooks.vercel.app"
     },
     {
-      name: "Marvel-service",
+      name: "Portrait on canvas",
       description:
         "Portrait on canvas - it was an interesting project on vanilla JavaScript, in which I got good practical experience.",
       tags: [

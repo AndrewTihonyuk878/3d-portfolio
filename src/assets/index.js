@@ -37,6 +37,7 @@ import pizza from "./pizza.png";
 import react_chess from "./react_chess.png";
 import marvel from "./marvel.png";
 import portrait from "./portret.png"
+import bank_modern from "./bank_modern.png"
 
 
 export {
@@ -75,5 +76,6 @@ export {
   marvel,
   portrait,
   ccgames,
-  asistant
+  asistant,
+  bank_modern
 };
