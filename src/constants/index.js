@@ -125,17 +125,17 @@ import {
   
   const experiences = [
     {
-      title: "Personal Assistant",
-      company_name: "STABILBAU",
-      icon: asistant,
+      title: "Frontend developer",
+      company_name: "CC Games",
+      icon: ccgames,
       iconBg: "#383E56",
-      date: "May 2021 - August 2022",
+      date: "October 2022 - Jul 2023",
       points: [
-        "Marketing, Employment, Recruiting, People managements, Project management.",
-        "Served as point of contact between clients and managerial staff.",
-        "Provided multifaceted services to career professionals by running errands, managing mail, scheduling appointments, and arranging transportation.",
-        "Documented and distributed meeting notes to identify, analyze, and improve workflows.",
-        "Communicated with internal departments, vendors and contractors to discuss schedules, project requirements and upcoming appointments."
+        "Coded using HTML, CSS, React, Redux, TypeScript, NextJS and JavaScript to develop features for both mobile and desktop platforms.",
+        "Proactively liaised with the design team and project manager to ensure efficient and timely delivery of significant projects.",
+        "Thanks to the site interface optimization I performed, mobile traffic increased by 15%.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Design and establish user-friendly websites, including optimized check-out page, resulting in 25% increase in user and subsequently 33% in customer purchases."
       ],
     },
     {
@@ -153,17 +153,17 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "CC Games",
-      icon: ccgames,
+      title: "Personal Assistant",
+      company_name: "STABILBAU",
+      icon: asistant,
       iconBg: "#383E56",
-      date: "October 2022 - Jul 2023",
+      date: "May 2021 - August 2022",
       points: [
-        "Coded using HTML, CSS, React, Redux, TypeScript, NextJS and JavaScript to develop features for both mobile and desktop platforms.",
-        "Proactively liaised with the design team and project manager to ensure efficient and timely delivery of significant projects.",
-        "Thanks to the site interface optimization I performed, mobile traffic increased by 15%.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-        "Design and establish user-friendly websites, including optimized check-out page, resulting in 25% increase in user and subsequently 33% in customer purchases."
+        "Marketing, Employment, Recruiting, People managements, Project management.",
+        "Served as point of contact between clients and managerial staff.",
+        "Provided multifaceted services to career professionals by running errands, managing mail, scheduling appointments, and arranging transportation.",
+        "Documented and distributed meeting notes to identify, analyze, and improve workflows.",
+        "Communicated with internal departments, vendors and contractors to discuss schedules, project requirements and upcoming appointments."
       ],
     },
   ];
